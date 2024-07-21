@@ -3,6 +3,6 @@ addIngredient("plutonium", {
         color:["#16386e","#311d57"],
         glow:"#00ff00",
         adj:"radioactive",
-        hidden:true
+        hidden:false
     }
 );
